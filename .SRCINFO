@@ -10,10 +10,8 @@ pkgbase = yesplaymusic
 	optdepends = libappindicator-gtk3
 	provides = yesplaymusic
 	source = YesPlayMusic-0.4.5.pacman::https://github.com/qier222/YesPlayMusic/releases/download/v0.4.5/YesPlayMusic-0.4.5.pacman
-	source = yesplaymusic
 	source = yesplaymusic.desktop
 	sha256sums = 77bc47093cf5f954f8f08fe22e91a9d0dc2d8d8414f85c092126edb9fbec26e5
-	sha256sums = ca68f4026eda5be9d9726f0dc5e9103d9dbbc78e98425e9f3beeeadc5ca00c06
-	sha256sums = 47745b94df95d0682416600253912196d5f800e6bee27e1aff3e491ee5a3c1ed
+	sha256sums = cfbb79c471f5ae1010e17c8abc1f4decb738a8214138b9b703e8d8239d56fc15
 
 pkgname = yesplaymusic

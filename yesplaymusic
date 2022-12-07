@@ -1,2 +1,0 @@
-#!/usr/bin/bash
-electron19 /usr/share/yesplaymusic/yesplaymusic.asar "$@"
