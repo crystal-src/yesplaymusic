@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=YesPlayMusic
-Exec=electron19 /usr/lib/yesplaymusic/app.asar %U
+Exec=electron25 /usr/lib/yesplaymusic/app.asar %U
 Terminal=false
 Type=Application
 Icon=yesplaymusic
